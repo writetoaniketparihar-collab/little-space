@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Purchases and private support
+    url: https://littlespace.pro/
+    about: Email hello@littlespace.pro. Never post purchase details or private notes in an issue.
+  - name: Security reports
+    url: https://github.com/writetoaniketparihar-collab/little-space/security/policy
+    about: Report vulnerabilities privately using the security policy.
